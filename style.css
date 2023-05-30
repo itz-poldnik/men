@@ -1,0 +1,111 @@
+.body {
+    margin: 0;
+  }
+  .container {
+    margin: 0px 100px;
+  }
+  .e {
+    background-image: url(img3/men.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .i {
+    text-align: center;
+  }
+  .menu {
+    color: #0f0d0d;
+    text-align: center;
+  }
+  .now {
+    text-align: center;
+  }
+  .oi {
+    display: flex;
+    text-align: center;
+    height: 250px;
+    width: 120px;
+  }
+  .w {
+    display: flex;
+    text-align: left;
+  }
+  .wr {
+    display: flex;
+    text-align: left;
+  }
+  .wq {
+    display: flex;
+    text-align: left;
+  }
+  .wt {
+    display: flex;
+    text-align: left;
+  }
+  .wh {
+    display: flex;
+    text-align: left;
+  }
+  .om {
+    display: flex;
+    text-align: center;
+    height: 200px;
+    width: 100px;
+  }
+  
+  .ot {
+    display: flex;
+    text-align: center;
+    height: 250px;
+    width: 120px;
+  }
+  
+  .ow {
+    display: flex;
+    text-align: center;
+    height: 250px;
+    width: 120px;
+  }
+  .op {
+    display: flex;
+    text-align: center;
+    height: 220px;
+    width: 100px;
+  }
+  
+  .about {
+    background-image: url(img3/фон.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+  }
+  .about {
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 40px;
+  }
+  .menu {
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 20px;
+    margin-right: 25px;
+    font-family: monospace;
+    font-size: 20px;
+    display: inline;
+    text-align: center;
+  }
+  .qu {
+    background-color: rgb(134, 136, 137);
+    text-align: center;
+  }
+  .ww {
+    text-align: center;
+  }
+  .rid {
+    text-align: center;
+  }
+  .prod {
+    display: inline-table;
+  }
+  
